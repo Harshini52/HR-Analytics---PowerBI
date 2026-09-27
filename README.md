@@ -74,7 +74,7 @@ Compared attrition across different job roles to identify roles with higher empl
 
 ## 📊 Dashboard Preview
 
-![HR Analytics Dashboard](./Dashboard/HR%20Analytics%20Dashboard.png)
+![HR Analytics Dashboard](https://github.com/user-attachments/assets/a6217223-eb28-4595-b101-63ae7fb60019)
 
 📁 Project Files
 
